@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '020CAI978';
+    src: url('020CAI978.eot');
+    src: url('020CAI978.eot') format('embedded-opentype'),
+         url('020CAI978.woff2') format('woff2'),
+         url('020CAI978.woff') format('woff'),
+         url('020CAI978.ttf') format('truetype'),
+         url('020CAI978.svg#020CAI978') format('svg');
+}
